@@ -1,0 +1,15 @@
+{
+  "name": "@cyansalt/tsconfig",
+  "version": "1.0.0",
+  "description": "My TypeScript configuration",
+  "tsconfig": "tsconfig.common.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyanSalt/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "CyanSalt",
+  "license": "ISC"
+}

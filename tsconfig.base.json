@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "noEmit": true,
+    "target": "ES2019",
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "forceConsistentCasingInFileNames": true,
+    "newLine": "LF",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "useDefineForClassFields": true
+  }
+}
