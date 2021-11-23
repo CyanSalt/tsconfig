@@ -3,6 +3,9 @@
   "version": "1.1.2",
   "description": "My TypeScript configuration",
   "tsconfig": "tsconfig.common.json",
+  "scripts": {
+    "release": "release-it"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CyanSalt/tsconfig.git"
@@ -11,5 +14,9 @@
     "tsconfig"
   ],
   "author": "CyanSalt",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^3.3.0",
+    "release-it": "^14.11.8"
+  }
 }
