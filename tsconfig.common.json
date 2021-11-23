@@ -3,6 +3,7 @@
   "compilerOptions": {
     "importHelpers": true,
     "module": "ES2020",
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "skipLibCheck": true
   }
 }
