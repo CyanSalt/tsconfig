@@ -6,11 +6,13 @@
     "noImplicitThis": true,
     "strictNullChecks": true,
     "esModuleInterop": true,
+    "isolatedModules": true,
     "moduleResolution": "Node",
     "downlevelIteration": true,
     "forceConsistentCasingInFileNames": true,
     "newLine": "LF",
     "resolveJsonModule": true,
-    "useDefineForClassFields": true
+    "useDefineForClassFields": true,
+    "skipLibCheck": true
   }
 }
