@@ -1,3 +1,10 @@
+### [1.2.1](https://github.com/CyanSalt/tsconfig/compare/v1.2.0...v1.2.1) (2022-01-10)
+
+
+### Bug Fixes
+
+* typescript with babel ([cb3145b](https://github.com/CyanSalt/tsconfig/commit/cb3145b00e0b36381a2a7f6e547ec7c55b464267))
+
 ## [1.2.0](https://github.com/CyanSalt/tsconfig/compare/v1.1.2...v1.2.0) (2021-11-23)
 
 
