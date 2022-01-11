@@ -2,6 +2,7 @@
   "name": "@cyansalt/tsconfig",
   "version": "1.2.1",
   "description": "My TypeScript configuration",
+  "main": "tsconfig.common.json",
   "tsconfig": "tsconfig.common.json",
   "scripts": {
     "release": "release-it"
@@ -10,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/CyanSalt/tsconfig.git"
   },
+  "bugs": {
+    "url": "https://github.com/CyanSalt/tsconfig/issues"
+  },
+  "homepage": "https://github.com/CyanSalt/tsconfig#readme",
   "keywords": [
     "tsconfig"
   ],
