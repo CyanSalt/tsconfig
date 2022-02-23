@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/CyanSalt/tsconfig/compare/v1.2.1...v2.0.0) (2022-02-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* rename to `app` or `lib`
+
+### Features
+
+* rename to `app` or `lib` ([e47dcb4](https://github.com/CyanSalt/tsconfig/commit/e47dcb423de7770b37f0290d7b4262e5e65b5f8d))
+
 ### [1.2.1](https://github.com/CyanSalt/tsconfig/compare/v1.2.0...v1.2.1) (2022-01-10)
 
 
