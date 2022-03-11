@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/CyanSalt/tsconfig/compare/v2.0.0...v2.0.1) (2022-03-11)
+
+
+### Bug Fixes
+
+* set target to ESNext by default ([68516d1](https://github.com/CyanSalt/tsconfig/commit/68516d1abe061d7c923914591393257fe9c216d1))
+
 ## [2.0.0](https://github.com/CyanSalt/tsconfig/compare/v1.2.1...v2.0.0) (2022-02-23)
 
 
