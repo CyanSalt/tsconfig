@@ -1,8 +1,9 @@
 {
   "extends": "./tsconfig.lib.json",
   "compilerOptions": {
+    "target": "ESNext",
     "importHelpers": true,
-    "module": "ES2020",
+    "module": "ESNext",
     "experimentalDecorators": true
   }
 }
