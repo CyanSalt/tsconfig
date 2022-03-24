@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/CyanSalt/tsconfig/compare/v2.0.1...v2.1.0) (2022-03-24)
+
+
+### Features
+
+* **tsconfig:** update `importHelpers` ([7f98e6d](https://github.com/CyanSalt/tsconfig/commit/7f98e6d60ebe16554a4fd7fc20be2e9a4af837ea))
+
 ### [2.0.1](https://github.com/CyanSalt/tsconfig/compare/v2.0.0...v2.0.1) (2022-03-11)
 
 
