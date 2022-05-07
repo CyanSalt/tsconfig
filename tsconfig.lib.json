@@ -3,15 +3,16 @@
     "allowJs": true,
     "noEmit": true,
     "target": "ES2019",
+    "downlevelIteration": true,
     "noImplicitThis": true,
     "strictNullChecks": true,
     "esModuleInterop": true,
     "isolatedModules": true,
     "moduleResolution": "Node",
-    "downlevelIteration": true,
     "forceConsistentCasingInFileNames": true,
     "newLine": "LF",
     "resolveJsonModule": true,
+    "jsx": "preserve",
     "useDefineForClassFields": true,
     "skipLibCheck": true
   }
