@@ -1,3 +1,12 @@
+
+
+### [2.1.1](https://github.com/CyanSalt/tsconfig/compare/v2.1.0...v2.1.1) (2022-05-07)
+
+
+### Bug Fixes
+
+* preserve jsx by default ([9e96a67](https://github.com/CyanSalt/tsconfig/commit/9e96a676258e6fb8332d38a89b385691c451bf4b))
+
 ## [2.1.0](https://github.com/CyanSalt/tsconfig/compare/v2.0.1...v2.1.0) (2022-03-24)
 
 
@@ -58,4 +67,3 @@
 
 * initial commit ([89af341](https://github.com/CyanSalt/tsconfig/commit/89af341efe987551659ddbc99bf0e598f3402140))
 * remove declarations ([a6de5d2](https://github.com/CyanSalt/tsconfig/commit/a6de5d25a44d808181b9703311e997bf0efbe05e))
-
