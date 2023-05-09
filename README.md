@@ -1,5 +1,7 @@
 # @cyansalt/tsconfig
 
+[![npm](https://img.shields.io/npm/v/@cyansalt/tsconfig.svg)](https://www.npmjs.com/package/@cyansalt/tsconfig)
+
 My TypeScript configuration.
 
 ## Installation
@@ -7,8 +9,6 @@ My TypeScript configuration.
 ```shell
 npm install --save-dev @cyansalt/tsconfig
 ```
-
-## Usage
 
 ## Usage
 
