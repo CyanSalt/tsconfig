@@ -1,5 +1,12 @@
 
 
+### [2.1.3](https://github.com/CyanSalt/tsconfig/compare/v2.1.2...v2.1.3) (2023-08-24)
+
+
+### Bug Fixes
+
+* node16 -> bundler ([2c868c3](https://github.com/CyanSalt/tsconfig/commit/2c868c346226bf5216da4d1ae24f3cd53ddf329d))
+
 ### [2.1.2](https://github.com/CyanSalt/tsconfig/compare/v2.1.1...v2.1.2) (2023-08-24)
 
 
