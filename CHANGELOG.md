@@ -1,5 +1,12 @@
 
 
+### [2.2.1](https://github.com/CyanSalt/tsconfig/compare/v2.2.0...v2.2.1) (2023-08-24)
+
+
+### Bug Fixes
+
+* rollback moduleResolution ([9b48fb7](https://github.com/CyanSalt/tsconfig/commit/9b48fb754a8423a38e3366f7e17693f7c1ec04c4))
+
 ## [2.2.0](https://github.com/CyanSalt/tsconfig/compare/v2.1.3...v2.2.0) (2023-08-24)
 
 
