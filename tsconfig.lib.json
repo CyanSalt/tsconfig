@@ -8,7 +8,7 @@
     "strictNullChecks": true,
     "esModuleInterop": true,
     "isolatedModules": true,
-    "moduleResolution": "Bundler",
+    "moduleResolution": "Node",
     "forceConsistentCasingInFileNames": true,
     "newLine": "LF",
     "resolveJsonModule": true,
