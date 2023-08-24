@@ -1,6 +1,6 @@
 {
   "name": "@cyansalt/tsconfig",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "My TypeScript configuration",
   "main": "tsconfig.app.json",
   "tsconfig": "tsconfig.app.json",

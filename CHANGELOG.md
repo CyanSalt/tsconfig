@@ -1,5 +1,12 @@
 
 
+### [2.1.2](https://github.com/CyanSalt/tsconfig/compare/v2.1.1...v2.1.2) (2023-08-24)
+
+
+### Bug Fixes
+
+* support package.json exports ([58241f8](https://github.com/CyanSalt/tsconfig/commit/58241f801490c8e96294c57bc83986867d239493))
+
 ### [2.1.1](https://github.com/CyanSalt/tsconfig/compare/v2.1.0...v2.1.1) (2022-05-07)
 
 
