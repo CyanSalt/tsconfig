@@ -1,5 +1,12 @@
 
 
+## [2.2.0](https://github.com/CyanSalt/tsconfig/compare/v2.1.3...v2.2.0) (2023-08-24)
+
+
+### Features
+
+* add node config ([fcb5dde](https://github.com/CyanSalt/tsconfig/commit/fcb5ddee63582d9ed760a4f9342e4c58fb356ff7))
+
 ### [2.1.3](https://github.com/CyanSalt/tsconfig/compare/v2.1.2...v2.1.3) (2023-08-24)
 
 
