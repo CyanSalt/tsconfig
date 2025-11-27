@@ -1,5 +1,16 @@
 
 
+## [3.0.0](https://github.com/CyanSalt/tsconfig/compare/v2.2.1...v3.0.0) (2025-11-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* target to esnext
+
+### Features
+
+* target to esnext ([fa25a07](https://github.com/CyanSalt/tsconfig/commit/fa25a0784e3572f743c9648014d476b2817ec65b))
+
 ### [2.2.1](https://github.com/CyanSalt/tsconfig/compare/v2.2.0...v2.2.1) (2023-08-24)
 
 
