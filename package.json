@@ -2,8 +2,8 @@
   "name": "@cyansalt/tsconfig",
   "version": "3.0.0",
   "description": "My TypeScript configuration",
-  "main": "tsconfig.app.json",
-  "tsconfig": "tsconfig.app.json",
+  "main": "tsconfig.json",
+  "tsconfig": "tsconfig.json",
   "scripts": {
     "release": "release-it"
   },
