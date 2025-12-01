@@ -15,18 +15,7 @@ npm install --save-dev @cyansalt/tsconfig
 ```json5
 // tsconfig.json
 {
-  "extends": "@cyansalt/tsconfig/tsconfig.app"
-  // OR in short (not recommended)
-  // "extends": "@cyansalt/tsconfig"
-}
-```
-
-For base libraries (which will be used as dependencies):
-
-```json5
-// tsconfig.json
-{
-  "extends": "@cyansalt/tsconfig/tsconfig.lib"
+  "extends": "@cyansalt/tsconfig"
 }
 ```
 
