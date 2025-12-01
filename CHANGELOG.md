@@ -1,5 +1,12 @@
 
 
+## [3.0.1](https://github.com/CyanSalt/tsconfig/compare/v3.0.0...v3.0.1) (2025-12-01)
+
+
+### Bug Fixes
+
+* main entry ([9c927d9](https://github.com/CyanSalt/tsconfig/commit/9c927d9479260498d6e7427979c664dab21479f3))
+
 ## [3.0.0](https://github.com/CyanSalt/tsconfig/compare/v2.2.1...v3.0.0) (2025-11-27)
 
 
